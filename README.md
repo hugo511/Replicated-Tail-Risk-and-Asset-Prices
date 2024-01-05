@@ -14,8 +14,8 @@ The code is contained in the ipynb files which corresponds to the results of fig
 ![](/logs/Hill_estimate_results/OriginalFigure2.png)
 
 Other replicated results of the first four tables are containd in the 'logs' folder.
-> Table1 Market return predictability: univariate predictor performance.\ 
+> Table1 Market return predictability: univariate predictor performance.\
 > Table2 Market return predictability: bivariate predictor performance.\
 > Table3 Market return predictability: out-of-sample R2.\
-> Table4 Tail beta-sorted portfolio returns.
+> Table4 Tail beta-sorted portfolio returns.\
 
