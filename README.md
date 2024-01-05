@@ -10,5 +10,9 @@ The code is contained in the ipynb files which corresponds to the results of fig
 ## Figure 2 Tail threshold and aggregate market volatility
 ![](/logs/Hill_estimate_results/Threshold_RV_196301_202212.png)
 
-## Table1 Market return predictability: univariate predictor performance
-![](/logs/HillUnivariatePred_196301_202212.csv)
+Other replicated results of the first four tables are containd in the 'logs' folder.
+> Table1 Market return predictability: univariate predictor performance
+> Table2 Market return predictability: bivariate predictor performance
+> Table3 Market return predictability: out-of-sample R2
+> Table4 Tail beta-sorted portfolio returns
+
