@@ -6,11 +6,12 @@ The code is contained in the ipynb files which corresponds to the results of fig
 
 ## Figure 1 Tail exponent estimates and subsequent market returns
 ![](/logs/Hill_estimate_results/Hillestimate_196301_202212.png)
-![](/logs/Hill_estimate_results/OriginalFigure 1.png)
+![](logs/Hill_estimate_results/OriginalFigure1.png)
+
 
 ## Figure 2 Tail threshold and aggregate market volatility
 ![](/logs/Hill_estimate_results/Threshold_RV_196301_202212.png)
-![](/logs/Hill_estimate_results/OriginalFigure 2.png)
+![](/logs/Hill_estimate_results/OriginalFigure2.png)
 
 Other replicated results of the first four tables are containd in the 'logs' folder.
 > Table1 Market return predictability: univariate predictor performance.\ 
