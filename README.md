@@ -17,5 +17,5 @@ Other replicated results of the first four tables are containd in the 'logs' fol
 > Table1 Market return predictability: univariate predictor performance.\
 > Table2 Market return predictability: bivariate predictor performance.\
 > Table3 Market return predictability: out-of-sample R2.\
-> Table4 Tail beta-sorted portfolio returns.\
+> Table4 Tail beta-sorted portfolio returns.
 
